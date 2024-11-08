@@ -19,7 +19,7 @@ I'm a **B.Tech IT student** at **SASTRA Deemed University**, passionate about **
 - **Languages**: Java, Python, C++
 - **Web Development**: HTML, CSS, JavaScript, React.js
 - **Database**: MySQL, SQL
-- **Machine Learning**: Data Structures, Algorithms, Model Training
+- **Machine Learning**: Algorithms, Model Training
 - **Tools & Frameworks**: OpenCV, YOLOv8, EasyOCR, React.js, DCS
 
 ## 💡 Selected Projects
