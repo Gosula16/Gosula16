@@ -57,8 +57,6 @@ I'm a **B.Tech IT student** at **SASTRA Deemed University**, passionate about **
 - 💻 **GitHub**: [Gosula16](https://github.com/Gosula16)
 - 🌐 **New Portfolio**: [Gosula Venkatesh Portfolio](https://portfolio-gv.web.app/)
 - 🌐 **Portfolio**: [Gosula Venkatesh Portfolio]((https://gosula16.github.io/my-portfolio-/))
-- 
-
 
 ## ⚡ Fun Fact
 
