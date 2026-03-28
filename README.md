@@ -1,125 +1,143 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi 👋, I'm Gosula Venkatesh</h1>
-<h3 align="center" style="font-family: 'Georgia', serif; color: #555;">B.Tech IT @ SASTRA Deemed University | Full Stack Developer | Front-End Enthusiast | OSS Contributor</h3>
+<h1 align="center">Gosula Venkatesh</h1>
+<p align="center">
+  Software Engineer at Harman International | Full Stack Developer | Frontend-Focused Builder
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gosula16&label=Profile%20views&color=0e75b6&style=flat" alt="gosula16" />
-  <a href="mailto:gosulavenkatesh461@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gosula-venkatesh-52b067233"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://portfolio-gv.web.app"><img src="https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=vercel&logoColor=black" /></a>
+  Building reliable products across web applications, APIs, and connected systems.
 </p>
-
----
-
-### 🚀 About Me
-
-🎓 **I'm a passionate B.Tech IT student** with a love for building scalable, modern web and machine learning applications.
-
-💡 I enjoy solving real-world problems through tech and actively contribute to **open-source projects**.
-
-📚 **Currently Learning**:
-- MERN Stack Development
-- Deep Learning & Model Optimization
-- Data Structures & Algorithms in Python
-
----
-
-### 🧰 Tech Stack
-
-#### 👨‍💻 Languages
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" />
-</p>
-
-#### 🧱 Frontend
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-</p>
-
-#### 🔧 Backend
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot" />
-</p>
-
-#### 🗄️ Databases
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-</p>
-
-#### 🤖 Machine Learning / AI
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" alt="Keras" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="EasyOCR" />
-</p>
-
-#### 🛠 Tools
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-</p>
-
----
-
-### 🌟 Highlight Projects
-
-### 🚗 ALPR - Automated License Plate Recognition
-Built a high-accuracy real-time license plate recognition system using YOLOv8, OpenCV & EasyOCR.
-
-### 💳 Bank Management System
-Simulated secure banking features using Java, Swing, and MySQL.
-
-### 🌏 Bharat Tourism Website
-Created an engaging tourism site with smooth UI using pure HTML, CSS, and JS.
-
-### 🧳 One Stop Solution for Tourism – Travely
-Full-stack travel booking platform integrating flights, hotels, car rentals, and more with real-time data.
-
----
-
-### 🏅 Certifications & Achievements
-
-- 💻 **Frontend Development** – Simplilearn
-- 🤖 **Advanced ML** – Simplilearn
-- 📊 **J.P. Morgan Software Engineering Virtual Internship** – Forage
-- 🧠 **MATLAB Workshop** – Sastra University
-
----
-
-### 🌱 Community Involvement
-
-- 🏕️ **NSS Volunteer** – Led community impact programs
-- 🎮 **Gaming Club** – Active participant in e-sports & gaming strategy
-- 🧮 **Math Club** – Problem-solving, puzzles, and analytics discussions
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gosula16&show_icons=true&theme=react" /><br>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gosula16&theme=react" />
+  <a href="mailto:gosulavenkatesh461@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Gosula16">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/gosula-venkatesh-52b067233">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://professional-developer-portfolio2.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
+---
+
+## Executive Summary
+
+Software Engineer with experience spanning frontend development, backend integration, and automotive connectivity systems. Currently working at **Harman International** through **Valueleaf Global**, contributing to Bluetooth feature validation, issue analysis, and software quality in connected automotive environments.
+
+Strong foundation in **React.js, Node.js, Express.js, MongoDB, Java, and REST API integration**, with hands-on project work across full stack applications, frontend systems, and applied problem-solving. Known for product-minded execution, analytical debugging, and the ability to move from idea to working implementation quickly.
+
+---
+
+## Current Role
+
+### Harman International
+**Software Engineer - Connectivity (Bluetooth)**  
+**July 2025 - Present**
+
+- Contributing to Bluetooth connectivity development and validation across automotive profiles including **A2DP, AVRCP, HFP, PBAP, and MAP**
+- Performing detailed **log analysis, defect identification, debugging support, and issue validation**
+- Working with automotive and testing tools such as **AX8, QFIL, NEC Flasher, and PTS Certification**
+- Supporting reliable software behavior in production-oriented connected systems
+
+---
+
+## Previous Experience
+
+### VeriSync Labs, Bengaluru
+**Frontend Developer Intern**  
+**January 2025 - June 2025**
+
+- Built responsive and user-focused web applications using **React.js, HTML, CSS, and JavaScript**
+- Integrated **REST APIs** for efficient data fetching, rendering, and state handling
+- Collaborated with backend services built in **Node.js and Express.js** to ensure clean application flow and usability
+
+---
+
+## Core Strengths
+
+- Full stack web development
+- Frontend engineering and responsive UI implementation
+- REST API integration
+- Debugging and analytical problem solving
+- Connected systems and Bluetooth validation
+- Team collaboration and fast learning in production environments
+
+---
+
+## Selected Projects
+
+### Travely - Full Stack Tourism Platform
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, APIs
+
+Built a full stack travel booking platform integrating services such as flights, hotels, restaurants, car rentals, and train bookings into one user experience.
+
+### Intimate Global - Visa and Immigration Services Platform
+**Tech Stack:** React.js, HTML, CSS, JavaScript, APIs
+
+Developed a responsive frontend platform for visa and corporate immigration services with a focus on clean information architecture and accessibility.
+
+### Bank Management System
+**Tech Stack:** Java, Swing, JDBC, MySQL
+
+Created a desktop banking application supporting account creation, deposits, withdrawals, transaction history, statement generation, and loan workflows.
+
+---
+
+## Tech Stack
+
+### Languages
+`Java` `Python` `C++` `SQL` `JavaScript`
+
+### Frontend
+`React.js` `HTML` `CSS` `Bootstrap`
+
+### Backend
+`Node.js` `Express.js` `REST APIs`
+
+### Databases
+`MongoDB` `MySQL`
+
+### Tools
+`Git` `GitHub` `Postman` `VS Code` `IntelliJ IDEA` `Jupyter Notebook` `Ubuntu`
+
+---
+
+## Education
+
+### SASTRA Deemed University
+**B.Tech in Information Technology**  
+**2021 - 2025**  
+**CGPA: 8.3 / 10.0**
+
+---
+
+## Certifications and Leadership
+
+- J.P. Morgan Chase Software Engineering Virtual Experience
+- Front-End Development Certification
+- Full-Stack Developer Program
+- NSS Volunteer
+- SASTRA Gaming Club Member
+- SASTRA Math Club Member
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-<!--   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gosula16&theme=react-dark" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gosula16&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gosula16&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
----
-
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
 
-### ⚡ Fun Fact
-I'm that person who fixes bugs by talking to my **rubber duck**. Also, I learn best when teaching others. Let's build cool stuff together 🚀
+## Contact
+
+- Portfolio: [professional-developer-portfolio2.vercel.app](https://professional-developer-portfolio2.vercel.app/)
+- LinkedIn: [linkedin.com/in/gosula-venkatesh-52b067233](https://www.linkedin.com/in/gosula-venkatesh-52b067233)
+- GitHub: [github.com/Gosula16](https://github.com/Gosula16)
+- Email: [gosulavenkatesh461@gmail.com](mailto:gosulavenkatesh461@gmail.com)
